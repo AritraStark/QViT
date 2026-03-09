@@ -1,6 +1,6 @@
 # Vision Transformer & Quantum Vision Transformer on MNIST
 
-> **Task VIII** — Classical ViT from scratch · Attention Rollout · Hybrid QViT · PennyLane · Cirq
+>  Classical ViT from scratch · Attention Rollout · Hybrid QViT · PennyLane · Cirq
 
 ---
 
